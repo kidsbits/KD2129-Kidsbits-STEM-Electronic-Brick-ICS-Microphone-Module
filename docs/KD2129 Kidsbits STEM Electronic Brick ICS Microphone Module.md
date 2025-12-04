@@ -19,7 +19,7 @@ This module mainly adopts an ICS-43432 digital microphone chip, which is a high-
 - **Acoustic overload point** : 116 dB SPL
 - **Frequency response** : 50 HZ - 20 kHZ
 - **Operating temperature** : -40°C to +85°C
-- **Dimensions** : 48mm × 24mm × 1.6mm
+- **Dimensions** : 48mm × 24mm
 
 
 ## 3. Working Principle
